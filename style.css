@@ -1,45 +1,64 @@
 body{
-    background-color: rgb(0, 255, 85);
-    align-content: center;
-    flex: wrap;
-    justify-content: space-between;
+    background-color: #00ddff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.yo2{
-    padding: 100;
-    margin: 20;
-    margin-right: 900;
-    background-color: rgb(0, 0, 0);
+#navbar{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: rgb(107, 170, 117);
+    color: rgb(255, 255, 255);
 }
 .yo{
-    
-    padding: 150;
-    margin: 20;
-    background-color: rgb(0, 0, 0);
+    padding: 130;
+    margin: 30;
+    background-color: #1a0090;
 }
 .flex{
     display: flex;
 }
 
-.yo3{
-    padding: 100;
-    margin: 20;
-    width: 440;
-    background-color: rgb(0, 0, 0);
+.red{
+    padding-right: 450px;
+    background-color:#1a0090;
 }
-
-.yoblack{
-    padding: 100;
-    margin: 20;
-    width: 1140;
-    margin-right: 900;
-    background-color: rgb(0, 0, 0);
+.yellow{
+    padding-bottom: 670px;
+    background-color: #1a0090;
 }
-.flex1{
-
-    padding: 100;
-    margin: 20;
-    width: 100;
-    height: 700;
-    background-color: rgb(0, 0, 0);
-
+.pink{
+   padding: 130;
+   padding-top: 350;
+   margin-right: 30;
+   background-color:#1a0090;
+}
+.purple{
+    margin-right: 405;
+    background-color: #1a0090;
+}
+.green{
+    padding-bottom: 430px;
+    margin-top: 320px;
+    background-color: #1a0090;
+}
+.yo{
+    padding: 130;
+    margin: 30;
+    background-color: #1a0090;
+}
+.blue{
+    padding-bottom: 350;
+    margin-top: 40;
+    background-color: #1a0090;
+}
+.blue2{
+    padding-bottom: 440;
+    margin-top: 40;
+    background-color: #1a0090;
+}
+.white{
+    padding-right: 450px;
+    background-color: #00aaff;
+    margin-top: 0;
 }
