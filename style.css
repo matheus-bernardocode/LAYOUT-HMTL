@@ -11,3 +11,8 @@ body{
     display: flex;
 }
 
+.red{
+    padding-right: 430px;
+    background-color: rgb(19, 188, 255);
+
+}
