@@ -1,64 +1,13 @@
 body{
-    background-color: #00ddff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(51, 67, 206);
 }
-#navbar{
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border-radius: 15px;
-    padding: 5px;
-    background-color: rgb(107, 170, 117);
-    color: rgb(255, 255, 255);
-}
+
 .yo{
     padding: 130;
     margin: 30;
-    background-color: #1a0090;
+    background-color: rgb(19, 188, 255);
 }
 .flex{
     display: flex;
 }
 
-.red{
-    padding-right: 450px;
-    background-color:#1a0090;
-}
-.yellow{
-    padding-bottom: 670px;
-    background-color: #1a0090;
-}
-.pink{
-   padding: 130;
-   padding-top: 350;
-   margin-right: 30;
-   background-color:#1a0090;
-}
-.purple{
-    margin-right: 405;
-    background-color: #1a0090;
-}
-.green{
-    padding-bottom: 430px;
-    margin-top: 320px;
-    background-color: #1a0090;
-}
-.yo{
-    padding: 130;
-    margin: 30;
-    background-color: #1a0090;
-}
-.blue{
-    padding-bottom: 350;
-    margin-top: 40;
-    background-color: #1a0090;
-}
-.blue2{
-    padding-bottom: 440;
-    margin-top: 40;
-    background-color: #1a0090;
-}
-.white{
-    padding-right: 450px;
-    background-color: #00aaff;
-    margin-top: 0;
-}
